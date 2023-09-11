@@ -10,6 +10,7 @@ print("<h1>Headers</h1>"); */
 // print($name);
 
 // -------<<< Data Type
+
 // int
 $age = 50;
 // double
@@ -19,4 +20,14 @@ $name= 'amal';
 // boolean
 $isExists=true;
 
+// -------<<<Compound  Data Type
+//array
+$marks = array(20,30,50,60);
+// Object
+class Customer{
+    public $name;
+    public $address;
+}
+$nimalObj = new Customer();
+$nimalObj->name =  "nimal"
 ?>
