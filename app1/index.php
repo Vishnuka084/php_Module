@@ -29,5 +29,13 @@ class Customer{
     public $address;
 }
 $nimalObj = new Customer();
-$nimalObj->name =  "nimal"
+$nimalObj->name =  "nimal";
+
+$emptyValu=null;
+
+$value = "1995";
+$age=(int) $value;
+
+print($age);
+
 ?>
