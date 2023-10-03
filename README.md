@@ -7,4 +7,7 @@ PHP (recursive acronym for PHP: Hypertext Preprocessor) is a widely-used open so
 - data types
 - compound data type
 - spacial data type -(null)
+- condition
+- loop
+- function
   
