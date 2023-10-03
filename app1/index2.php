@@ -53,13 +53,18 @@
 
     -------- for each loop ---------
 
-*/
+
     $names = array("Nimal","Kamal","Piyal","Jagath");
 
     foreach($names as $name){
         echo $name . " ";
     }
+*/
 
+    $names = array("name" => "Kamal","age" => 45);
 
+    foreach($data as $key => $value){
+        echo $key . ":" . $value . "<br>";
+    }
 
 ?>
