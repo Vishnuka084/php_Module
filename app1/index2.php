@@ -10,6 +10,11 @@ echo "You are not eligible ";
 }
  */
 
+
+/*
+
+   ----------  else if ----------
+
 $marks=80;
 
 if($marks>=90){
@@ -20,7 +25,7 @@ if($marks>=90){
     echo "C";
 }else{
     echo "F";
-}
+} */
 
 
 ?>
