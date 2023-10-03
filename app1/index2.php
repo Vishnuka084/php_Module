@@ -27,5 +27,23 @@ if($marks>=90){
     echo "F";
 } */
 
+/*
+ ----------- switch ----------
+
+    $day= "Monday";
+    switch(day){
+        case "Monday":
+            echo "Monday";break;
+        case "Sunday":
+            echo "Sunday";break;
+        default:
+            echo "Wrong input";
+    }
+ */
+
+
+    for($i=1; $i<=5; $i++){
+        echo $i . " ";
+    }
 
 ?>
